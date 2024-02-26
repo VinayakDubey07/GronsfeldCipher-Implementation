@@ -104,7 +104,7 @@ const GronsfeldCipher = () => {
           />
         </div>
       )}
-      <h3>Made By: Vinayak,Utkarsh and Adnan</h3>
+      <h3>Made By: Vinayak Dubey</h3>
     </div>
   );
 };
